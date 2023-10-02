@@ -5,14 +5,16 @@
 - IAS/Principles of Secure Design as the guidelines security trends
 
 ### Outline
-- Secure Software Development
-- Planning for security
-- Requirements for security
-- Secure Design
-- Secure Design Threat Modeling
-- Secure Design Principles and practices
-- Attacks on secure programming
-- Robust Programs and mitiga
+| No. | Unit | Chapter (5th edition) | Covered |
+| --- | --- | --- | ---- |
+| 1 | Secure Software Development | | [x] |
+| 2 | Planning for security | 10.1 | [x] |
+| 3 | Requirements for security | 10.1 | [ ] |
+| 4 | Secure Design | 5.2 | [ ] |
+| 5 | Secure Design Threat Modeling | 2 | [ ] |
+| 6 | Secure Design Principles and practices |  | [ ] |
+| 7 | Attacks on secure programming |  | [ ] |
+| 8 | Robust Programs and mitigation |  | [ ] |
 
 
 ### References
