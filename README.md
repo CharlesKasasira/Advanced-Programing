@@ -15,3 +15,6 @@
 - Robust Programs and mitiga
 
 
+### References
+[1] Charles Pfleeger, Shari Pfleeger, Jonathan Margulies. (2015). Security in Computing 5th Edition. Pearson Education, Inc.
+
