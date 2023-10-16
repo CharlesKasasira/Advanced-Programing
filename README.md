@@ -9,7 +9,7 @@
 | --- | --- | --- | ---- |
 | 1 | Secure Software Development | | [x] |
 | 2 | Planning for security | 10.1 | [x] |
-| 3 | Requirements for security | 10.1 | [ ] |
+| 3 | Requirements for security | 10.1 | [x] |
 | 4 | Secure Design | 5.2 | [ ] |
 | 5 | Secure Design Threat Modeling | 2 | [ ] |
 | 6 | Secure Design Principles and practices |  | [ ] |
