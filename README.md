@@ -16,6 +16,12 @@
 | 7 | Attacks on secure programming |  | [ ] |
 | 8 | Robust Programs and mitigation |  | [ ] |
 
+Availability Requirements
+- Specifying in 9s terminology
+
+![9s-terminology](./assets/availability-1.png)
+
+[*Design for Availability – Game of 9s*](https://manishsharma.blog/2020/02/04/design-for-availability-game-of-9s/)
 
 ### References
 [1] Charles Pfleeger, Shari Pfleeger, Jonathan Margulies. (2015). Security in Computing 5th Edition. Pearson Education, Inc.
